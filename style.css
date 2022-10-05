@@ -15,11 +15,21 @@ body {
   font-size: 18px;
 }
 
-h2, h3{
+h2{
 	color: pink;
 	font-family: sans-serif;
 }
 
+h3{
+	color: grey;
+	font-family: sans-serif;
+}
+
+p{
+	color: black;
+	font-family: sans-serif;
+	font-size: 12px;
+}
 .container {
   width: 900px;
   margin: 60px auto;
@@ -53,7 +63,7 @@ h2, h3{
 }
 
 .card-white {
-  background: white;
+  background: mistyrose;
   box-shadow: 0 0 16px rgba(0,0,0,0.1);
   border-radius: 4px;
   padding: 24px;
@@ -79,7 +89,9 @@ h2, h3{
 }
 
 .footer {
-  background: pink;
+  background: white;
   color: white;
   padding: 10px 0px;
+  font-family: sans-serif;
+  font-size: 20px;
 }
