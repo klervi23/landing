@@ -26,11 +26,11 @@ h2, h3{
 }
 
 .banner {
-  height: 434px;
-  background-image: url('images/background.jpg');
+  height: 400px;
+  background-image: url('images/campus-esg-luxe-paris.jpeg');
   background-size: cover;
   text-align: center;
-  padding: 150px 0;
+  padding: 160px 0;
   background-position: center;
   
 }
